@@ -1,2 +1,2 @@
-# set-timeout-async-await
-ES7 async/await version of setTimeout
+# custom-hooks
+Userful react hooks & custom functions
